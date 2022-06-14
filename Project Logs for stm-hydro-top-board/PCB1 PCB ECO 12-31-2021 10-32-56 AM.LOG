@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=R2 Old DesignItemId=ESR10EZPF2200 New DesignItemId=CRCW0603220RJNEAHP
+Change Component Footprint: Designator=R2 Old Footprint=RES 0805_2012 New Footprint=RES 0603_1608
+Change Component Description : Designator=R2 Old Description=RES SMD 220 OHM 1% 0.4W 0805 New Description=RES SMD 220 OHM 5% 1/4W 0603
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES 0805_2012"; UniqueID = "\KGCQIDHR" ("\KGCQIDHR")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0603220RJNEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220 Ohms"; VariantName = "[No Variations]"

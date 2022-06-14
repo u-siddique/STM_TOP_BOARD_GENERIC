@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=J3-09
+Removed Pin From Net: NetName=GND Pin=J3-17
+Added Pin To Net: NetName=SPI1_NSS Pin=J3-01
+Added Pin To Net: NetName=SWCLK Pin=J3-03
+Added Pin To Net: NetName=UART5_TX Pin=J3-05
+Added Pin To Net: NetName=UART5_RX Pin=J3-07
+Added Pin To Net: NetName=GPIO_13 Pin=J3-09
+Added Pin To Net: NetName=GND Pin=J3-11
+Added Pin To Net: NetName=GND Pin=J3-13
+Added Pin To Net: NetName=GND Pin=J3-15
+Added Pin To Net: NetName=3V3 Pin=J3-17

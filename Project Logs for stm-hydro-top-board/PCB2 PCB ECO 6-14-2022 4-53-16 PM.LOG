@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=QSPI_ISO3 Pin=U1-24
+Added Pin To Net: NetName=QSPI_ISO2 Pin=U1-25
+Added Pin To Net: NetName=QSPI_ISO1 Pin=U1-27
+Added Pin To Net: NetName=QSPI_CS Pin=U1-164
+Added Pin To Net: NetName=QSPI_ISO0 Pin=U?-5
+Added Pin To Net: NetName=QSPI_CLK Pin=U?-6
+Added Member To Class: ClassName=BOARD-connector Member=Component J3 LSS-110-01-F-DV-A

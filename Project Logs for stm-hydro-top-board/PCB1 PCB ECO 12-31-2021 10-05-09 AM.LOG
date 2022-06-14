@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=VREF Pin=C5-2
+Removed Pin From Net: NetName=VDDA Pin=C16-2
+Removed Pin From Net: NetName=3V3 Pin=C22-2
+Removed Member From Class: ClassName=SDram Member=C22
+Change Component Footprint: Designator=C1 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C2 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C5 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C7 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C8 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C9 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C10 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C11 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C12 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C13 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C14 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C16 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C17 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C18 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C19 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C20 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C21 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C22 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C23 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C24 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C25 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C26 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C27 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C28 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C29 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=R1 Old Footprint=RES 0805_2012 New Footprint=RES 0603_1608
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP 0805_2012"; UniqueID = "\MHEJCGVU" ("\MHEJCGVU")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP 0805_2012"; UniqueID = "\OTYARELT" ("\OTYARELT")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP 0805_2012"; UniqueID = "\CTIWUTMU" ("\CTIWUTMU")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAP 0805_2012"; UniqueID = "\OLPNFXMU" ("\OLPNFXMU")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP 0805_2012"; UniqueID = "\HCWJZOOI" ("\HCWJZOOI")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAP 0805_2012"; UniqueID = "\ZSOXPGMA" ("\ZSOXPGMA")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAP 0805_2012"; UniqueID = "\ZRTFEDVW" ("\ZRTFEDVW")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAP 0805_2012"; UniqueID = "\GFRWIVRV" ("\GFRWIVRV")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAP 0805_2012"; UniqueID = "\DKWERZGI" ("\DKWERZGI")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAP 0805_2012"; UniqueID = "\DMURSQKD" ("\DMURSQKD")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "CAP 0805_2012"; UniqueID = "\TAMJOGHA" ("\TAMJOGHA")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAP 0805_2012"; UniqueID = "\BGAPRGBP" ("\BGAPRGBP")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "CAP 0805_2012"; UniqueID = "\TJAXFMWG" ("\TJAXFMWG")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "CAP 0805_2012"; UniqueID = "\ZLMCEQUF" ("\ZLMCEQUF")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAP 0805_2012"; UniqueID = "\OAUEDGTX" ("\OAUEDGTX")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0603C475K9PACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAP 0805_2012"; UniqueID = "\XUTXBDCI" ("\XUTXBDCI")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "CAP 0805_2012"; UniqueID = "\SRVFUYXA" ("\SRVFUYXA")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CAP 0805_2012"; UniqueID = "\YUGFWVPY" ("\YUGFWVPY")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAP 0805_2012"; UniqueID = "\ULALOFKO" ("\ULALOFKO")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "CAP 0805_2012"; UniqueID = "\VZQHLRGZ" ("\VZQHLRGZ")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAP 0805_2012"; UniqueID = "\GQVBMTPM" ("\GQVBMTPM")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "CAP 0805_2012"; UniqueID = "\QPAZLHIQ" ("\QPAZLHIQ")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "CAP 0805_2012"; UniqueID = "\PYJYSNVN" ("\PYJYSNVN")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP 0805_2012"; UniqueID = "\XZOATXAS" ("\XZOATXAS")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CC0603JRNPO0BN200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP 0805_2012"; UniqueID = "\HRTPCBOG" ("\HRTPCBOG")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CC0603JRNPO0BN200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES 0805_2012"; UniqueID = "\UAISMEWZ" ("\UAISMEWZ")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW060310K0FKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 kOhms"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAP 0603_1608)
+Add component (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAP 0603_1608)
+Add component (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C5-2
+Added Pin To Net: NetName=VREF Pin=C16-2
+Added Pin To Net: NetName=VDDA Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=3V3 Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=3V3 Pin=C32-2
+Added Member To Class: ClassName=STM-power-boot Member=Component C22 0.1µF
+Added Member To Class: ClassName=SDram Member=Component C31 0.1µF
+Added Member To Class: ClassName=SDram Member=Component C32 0.1µF

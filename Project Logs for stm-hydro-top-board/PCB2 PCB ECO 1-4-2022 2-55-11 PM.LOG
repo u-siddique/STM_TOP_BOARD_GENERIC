@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SWDIO Pin=J2-02
+Removed Pin From Net: NetName=SWCLK Pin=J2-04
+Removed Pin From Net: NetName=SPI1_NSS Pin=J2-18
+Removed Pin From Net: NetName=DAC_OUT_1 Pin=J3-02
+Removed Pin From Net: NetName=DAC_OUT_2 Pin=J3-04
+Removed Pin From Net: NetName=ADC1_IN13 Pin=J3-16
+Added Pin To Net: NetName=DAC_OUT_1 Pin=J2-02
+Added Pin To Net: NetName=DAC_OUT_2 Pin=J2-04
+Added Pin To Net: NetName=ADC1_IN13 Pin=J2-18
+Added Pin To Net: NetName=SWDIO Pin=J3-02
+Added Pin To Net: NetName=SWCLK Pin=J3-04
+Added Pin To Net: NetName=SPI1_NSS Pin=J3-16

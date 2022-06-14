@@ -1,0 +1,40 @@
+Added Component: Designator=J3(F305-1A7H1-11040-E100)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey_Link"; Value = "https://www.digikey.com/en/products/detail/amphenol-icc-fci/F305-1A7H1-11040-E100/11564644"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "F305-1A7H1-11040-E100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LCD_R0 Pin=J3-3
+Added Pin To Net: NetName=LCD_R1 Pin=J3-4
+Added Pin To Net: NetName=LCD_R2 Pin=J3-5
+Added Pin To Net: NetName=LCD_R3 Pin=J3-6
+Added Pin To Net: NetName=LCD_R4 Pin=J3-7
+Added Pin To Net: NetName=LCD_R5 Pin=J3-8
+Added Pin To Net: NetName=LCD_R6 Pin=J3-9
+Added Pin To Net: NetName=LCD_R7 Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J3-11
+Added Pin To Net: NetName=LCD_G0 Pin=J3-12
+Added Pin To Net: NetName=LCD_G1 Pin=J3-13
+Added Pin To Net: NetName=LCD_G2 Pin=J3-14
+Added Pin To Net: NetName=LCD_G3 Pin=J3-15
+Added Pin To Net: NetName=LCD_G4 Pin=J3-16
+Added Pin To Net: NetName=LCD_G5 Pin=J3-17
+Added Pin To Net: NetName=LCD_G6 Pin=J3-18
+Added Pin To Net: NetName=LCD_G7 Pin=J3-19
+Added Pin To Net: NetName=GND Pin=J3-20
+Added Pin To Net: NetName=LCD_B0 Pin=J3-21
+Added Pin To Net: NetName=LCD_B1 Pin=J3-22
+Added Pin To Net: NetName=LCD_B2 Pin=J3-23
+Added Pin To Net: NetName=LCD_B3 Pin=J3-24
+Added Pin To Net: NetName=LCD_B4 Pin=J3-25
+Added Pin To Net: NetName=LCD_B5 Pin=J3-26
+Added Pin To Net: NetName=LCD_B6 Pin=J3-27
+Added Pin To Net: NetName=LCD_B7 Pin=J3-28
+Added Pin To Net: NetName=GND Pin=J3-29
+Added Pin To Net: NetName=DOTCLK Pin=J3-30
+Added Pin To Net: NetName=HSYNC Pin=J3-31
+Added Pin To Net: NetName=VSYNC Pin=J3-32
+Added Pin To Net: NetName=LCD_DE Pin=J3-33
+Added Member To Class: ClassName=LCD-connector Member=Component J3 F305-1A7H1-11040-E100

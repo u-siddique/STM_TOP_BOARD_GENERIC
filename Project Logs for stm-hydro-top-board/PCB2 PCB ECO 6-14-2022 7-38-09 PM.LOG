@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=USART3_RX Pin=P?-11
+Removed Pin From Net: NetName=USART3_TX Pin=P?-12
+Removed Pin From Net: NetName=USART3_DE Pin=P?-13
+Removed Pin From Net: NetName=I2C3_SDL Pin=P?-14
+Removed Pin From Net: NetName=I2C3_SDA Pin=P?-15
+Removed Pin From Net: NetName=GPIO_2 Pin=P?-16
+Added Pin To Net: NetName=I2C3_SDL Pin=P?-11
+Added Pin To Net: NetName=I2C3_SDA Pin=P?-12
+Added Pin To Net: NetName=GPIO_2 Pin=P?-13
+Added Pin To Net: NetName=USART3_RX Pin=P?-14
+Added Pin To Net: NetName=USART3_TX Pin=P?-15
+Added Pin To Net: NetName=USART3_DE Pin=P?-16
