@@ -174,7 +174,147 @@ GenerateClassCluster=0
 DocumentUniqueId=QRLYYWEF
 
 [GeneratedDocument1]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for stm-hydro-top-board\Design Rule Check - PCB2.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\layer_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\layer_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\symbols\rect39.3701x35.4331_45\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\symbols\rect39.3701x35.4331_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\symbols\rect47.3701x43.4331_45\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\symbols\rect47.3701x43.4331_315\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\symbols\rect64.9606x22.8346xr2.8543_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\symbols\rect72.9606x30.8346xr6.8543_225\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\PCB2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\user\PCB2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=stm-hydro-top-board.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for stm-hydro-top-board\stm-hydro-top-board.xls
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=PDNAnalyzer_Output\PCB2\ODBTemp\odb\steps\pcb\layers\rout\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -186,6 +326,30 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SignalIntegritySimulation]
+SignalIntegrityInitialised=-1
+TrackImpedance=50
+TrackLength=20000000
+UseManhattan=-1
+UseSupplyNetsRules=-1
+SupplyNetsCount=0
+UseStimulusRules=-1
+StimKind=1
+StimLevel=0
+StimStartTime=1E-8
+StimStopTime=6E-8
+StimPeriodTime=1E-7
+
+[Generic_SignalIntegrityTestSetup]
+Falling Edge OvershootDefaultEnabled=-1
+Falling Edge OvershootDefaultValue=20
+Falling Edge UndershootDefaultEnabled=-1
+Falling Edge UndershootDefaultValue=20
+Rising Edge OvershootDefaultEnabled=-1
+Rising Edge OvershootDefaultValue=20
+Rising Edge UndershootDefaultEnabled=-1
+Rising Edge UndershootDefaultValue=20
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -483,6 +647,8 @@ OutputName10=ODB++ Files
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 2=False|AddToAllPlots_Mechanical 3=False|AddToAllPlots_Mechanical 4=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set= |MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=True|PlotInternalPlane2Plot=True|PlotInternalPlane3Plot=True|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=False|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=True|PlotMechanical6Plot=False|PlotMechanical7Plot=True|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView|Units=Imperial
 OutputType11=Plane
 OutputName11=Power-Plane Prints
 OutputDocumentPath11=
@@ -506,6 +672,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=

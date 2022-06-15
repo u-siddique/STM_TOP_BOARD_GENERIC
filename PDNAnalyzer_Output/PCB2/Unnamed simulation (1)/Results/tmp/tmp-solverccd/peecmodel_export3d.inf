@@ -1,0 +1,10 @@
+Program                          : export3d
+Version                          : 1.4.1
+Date                             : 15.Jun 2022 16:13:30
+Runtime                          : 
+Neutral top file                 : E:\STM_TOP_BOARD_GENERIC\PDNAnalyzer_Output\PCB2\Unnamed simulation (1)\Results\tmp\tmp-solverccd\irdrop.ntt
+Neutral model file               : E:\STM_TOP_BOARD_GENERIC\PDNAnalyzer_Output\PCB2\Unnamed simulation (1)\Results\tmp\tmp-solverccd\irdrop.nt3
+Top circuit file                 : E:\STM_TOP_BOARD_GENERIC\PDNAnalyzer_Output\PCB2\Unnamed simulation (1)\Results\tmp\tmp-solverccd\peecmodel.tcf
+Model file                       : E:\STM_TOP_BOARD_GENERIC\PDNAnalyzer_Output\PCB2\Unnamed simulation (1)\Results\tmp\tmp-solverccd\peecmodel.pcm
+Control file                     : E:\STM_TOP_BOARD_GENERIC\PDNAnalyzer_Output\PCB2\Unnamed simulation (1)\Results\tmp\control.ctr
+Simulator type                   : SLSim

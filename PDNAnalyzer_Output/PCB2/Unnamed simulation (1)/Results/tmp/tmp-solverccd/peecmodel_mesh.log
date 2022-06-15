@@ -1,0 +1,22 @@
+
+Program                          : pcbmerge
+Version                          : 1.7.3
+Date                             : 15.Jun 2022 11:13:28
+Input file                       : E:\STM_TOP_BOARD_GENERIC\PDNAnalyzer_Output\PCB2\Unnamed simulation (1)\Results\tmp\design.dar
+Control file                     : E:\STM_TOP_BOARD_GENERIC\PDNAnalyzer_Output\PCB2\Unnamed simulation (1)\Results\tmp\tmp-solverccd\peecmodel.opt
+Selection file                   : 
+Result file                      : E:\STM_TOP_BOARD_GENERIC\PDNAnalyzer_Output\PCB2\Unnamed simulation (1)\Results\tmp\tmp-solverccd\peecmodel.pci
+Error file                       : E:\STM_TOP_BOARD_GENERIC\PDNAnalyzer_Output\PCB2\Unnamed simulation (1)\Results\tmp\IRDROPRESULTS\logfile.log
+
+
+No. Signal Capacitive Areas      : 12649
+No. Reference Capacitive Areas   : 0
+No. Signal Inductive Segments    : 21139
+No. Reference Inductive Segments : 0
+No. Via Inductive Segments       : 365
+No. Dielectric Elements          : 0
+
+No. Terminals                    : 49
+
+Runtime                          : 2 sec 
+

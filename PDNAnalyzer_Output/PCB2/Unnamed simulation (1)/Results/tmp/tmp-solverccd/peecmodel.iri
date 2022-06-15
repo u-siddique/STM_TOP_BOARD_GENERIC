@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!--irdropInfo XML Version 1.0-->
+<irdropresults>
+<component name="VCOMP0" type="SUPPLY">
+<terminal diepin="P-VCOMP0" terminaltype="POWER_IN" voltage="0" voltagenominal="3.3">
+<pin name="VCOMP0-0" current="0" voltage="0" rpin="0"/>
+<pin name="VCOMP0-1" current="0" voltage="0" rpin="0"/>
+<pin name="VCOMP0-2" current="0" voltage="0" rpin="0"/>
+</terminal>
+<terminal diepin="G-VCOMP0" terminaltype="GROUND_IN" voltage="0" voltagenominal="0">
+<pin name="VCOMP0-3" current="0" voltage="0" rpin="0"/>
+<pin name="VCOMP0-4" current="0" voltage="0" rpin="0"/>
+</terminal>
+</component>
+<component name="VCOMP1" type="IO">
+<terminal diepin="P-VCOMP1" terminaltype="POWER_IN" voltage="0" voltagenominal="3.3">
+<pin name="VCOMP1-0" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-1" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-2" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-3" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-4" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-5" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-6" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-7" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-8" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-9" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-10" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-11" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-12" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-13" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-14" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-15" current="0" voltage="0" rpin="13714.3"/>
+</terminal>
+<terminal diepin="G-VCOMP1" terminaltype="GROUND_IN" voltage="0" voltagenominal="0">
+<pin name="VCOMP1-16" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-17" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-18" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-19" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-20" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-21" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-22" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-23" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-24" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-25" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-26" current="0" voltage="0" rpin="13714.3"/>
+<pin name="VCOMP1-27" current="0" voltage="0" rpin="13714.3"/>
+</terminal>
+</component>
+<component name="VCOMP2" type="IO">
+<terminal diepin="P-VCOMP2" terminaltype="POWER_IN" voltage="0" voltagenominal="3.3">
+<pin name="VCOMP2-0" current="0" voltage="0" rpin="7000"/>
+<pin name="VCOMP2-1" current="0" voltage="0" rpin="7000"/>
+<pin name="VCOMP2-2" current="0" voltage="0" rpin="7000"/>
+<pin name="VCOMP2-3" current="0" voltage="0" rpin="7000"/>
+<pin name="VCOMP2-4" current="0" voltage="0" rpin="7000"/>
+<pin name="VCOMP2-5" current="0" voltage="0" rpin="7000"/>
+<pin name="VCOMP2-6" current="0" voltage="0" rpin="7000"/>
+</terminal>
+<terminal diepin="G-VCOMP2" terminaltype="GROUND_IN" voltage="0" voltagenominal="0">
+<pin name="VCOMP2-7" current="0" voltage="0" rpin="7000"/>
+<pin name="VCOMP2-8" current="0" voltage="0" rpin="7000"/>
+<pin name="VCOMP2-9" current="0" voltage="0" rpin="7000"/>
+<pin name="VCOMP2-10" current="0" voltage="0" rpin="7000"/>
+<pin name="VCOMP2-11" current="0" voltage="0" rpin="7000"/>
+<pin name="VCOMP2-12" current="0" voltage="0" rpin="7000"/>
+<pin name="VCOMP2-13" current="0" voltage="0" rpin="7000"/>
+</terminal>
+</component>
+<component name="VCOMP3" type="IO">
+<terminal diepin="P-VCOMP3" terminaltype="POWER_IN" voltage="0" voltagenominal="3.3">
+<pin name="VCOMP3-0" current="0" voltage="0" rpin="1000"/>
+</terminal>
+<terminal diepin="G-VCOMP3" terminaltype="GROUND_IN" voltage="0" voltagenominal="0">
+<pin name="VCOMP3-1" current="0" voltage="0" rpin="1000"/>
+</terminal>
+</component>
+<net name="3V3" voltagenominal="0.000000"/>
+<net name="GND" voltagenominal="0.000000"/>
+</irdropresults>

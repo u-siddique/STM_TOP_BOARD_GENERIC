@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=I2C3_SDA Pin=J?-5
+Removed Pin From Net: NetName=I2C3_SDL Pin=J?-6
+Removed Pin From Net: NetName=I2C3_SDL Pin=U1-100
+Removed Pin From Net: NetName=I2C3_SDA Pin=U1-101
+Added Pin To Net: NetName=I2C4_SDA Pin=J?-5
+Added Pin To Net: NetName=I2C4_SDA Pin=U1-101
+Added Net: Name=I2C4_SDA
+Added Pin To Net: NetName=I2C4_SDL Pin=J?-6
+Added Pin To Net: NetName=I2C4_SDL Pin=U1-100
+Added Net: Name=I2C4_SDL

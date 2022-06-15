@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=J1-2
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Added Component: Designator=C33(CAP 0603_1608)
+Add component (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAP 0603_1608)
+Add component (AddParameter): Name = "Part Number"; Value = "6R3X14W104MV4T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 0603_1608)
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW060310K0FKEAHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 kOhms"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES 0603_1608)
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW060310K0FKEAHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 kOhms"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=3V3 Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=3V3 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=NRST Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=BOOT0 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=3V3 Pin=U3-8
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R4-2
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=TOUCH-1 Pin=J2-1
+Added Pin To Net: NetName=TOUCH-1 Pin=U1-92
+Added Net: Name=TOUCH-1
+Added Pin To Net: NetName=TOUCH-2 Pin=J2-4
+Added Pin To Net: NetName=TOUCH-2 Pin=U1-93
+Added Net: Name=TOUCH-2
+Added Member To Class: ClassName=LCD-connector Member=Component C33 0.1µF
+Added Member To Class: ClassName=BOARD-connector Member=Component C34 0.1µF
+Added Member To Class: ClassName=BOARD-connector Member=Component R5 10 kOhms
+Added Member To Class: ClassName=BOARD-connector Member=Component R6 10 kOhms
