@@ -1,0 +1,8 @@
+Output: Design Rules Check
+Type  : DRC
+From  : PCB Document [PCB2.PcbDoc]
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:52:40 PM On 6/22/2022
